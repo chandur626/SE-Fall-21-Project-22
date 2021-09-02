@@ -1,7 +1,9 @@
 # SE-Fall-21-Project-22
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://app.travis-ci.com/chandur626/SE-Fall-21-Project-22.svg?branch=main)](https://app.travis-ci.com/chandur626/SE-Fall-21-Project-22)
+[![Build Status - GitHub](https://github.com/chandur626/SE-Fall-21-Project-22/workflows/pytesting/badge.svg)](https://github.com/chandur626/SE-Fall-21-Project-22/actions?query=workflow%3Apytesting)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5372667.svg)](https://doi.org/10.5281/zenodo.5372667)
+
 
 Unit testing with pytest.
 
