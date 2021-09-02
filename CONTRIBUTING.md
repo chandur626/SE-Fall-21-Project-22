@@ -9,3 +9,7 @@ email, or any other method with the owners of this repository before making a ch
 2. Update the README.md with details of changes , this includes new packages or unit tests.
 3. The pull request has to be approved by at least two developers.
 4. You may merge the pull request once approved, or you may request any developer to merge pull request if you don't have permission.
+
+## Reporting a bug
+
+You may raise an issue for a bug or discuss the same with owners. The pull request for bug fix should include at least two developers as reviewers.
