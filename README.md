@@ -12,6 +12,13 @@ Have you ever bought a product only to find out your friend bought the same prod
 
 Our developments in SmartShopper were achieved using the following technologies: Python3, Django, HTML, CSS, BeautifulSoup (ADD REMAINING TECHNOLOGIES HERE) Any developers who wish to improve Smartshopper should have these technologies installed before proceeding.
 
+
+### What SmartShopper doing under the hood
+![SmartShopperInternals](https://i.imgur.com/SYvKoeA.jpg)
+
+A User looking for a product makes a search via a search bar on the user interface. SmartShopper extracts certain keywords from the search. Using an existing .csv file with links to bigbox retailers like Target and Walmart, the program establishes a connection to these retailer links. The program then webscrapes from the links to find the product's general information (name, description, and price) matching that of the keywords extracted from the user search. Products are then outputted to the user interface for the user to view which retailers provide the cheapest price.
+
+
 ### Quickstart
 
 Clone the repository, install the dependencies and invoke the unit tests:
